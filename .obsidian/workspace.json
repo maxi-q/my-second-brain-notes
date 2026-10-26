@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "114d55e56deaa353",
@@ -211,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "578c13ca7918532e",
+  "active": "c5da0f718934ef7d",
   "lastOpenFiles": [
+    "Pasted image 20261026123601.png",
+    "Pasted image 20261026122200.png",
+    "Pasted image 20261026121646.png",
     "notes/mouthwash-reminder.md",
     "notes/intermediate/модальные.md",
     "Pasted image 20261020131634.png",
@@ -225,7 +229,6 @@
     "Pasted image 20261016122749.png",
     "Pasted image 20261016122726.png",
     "Pasted image 20261015123528.png",
-    "Pasted image 20261015122438.png",
     "notes/projects/second-brain-context.md",
     "notes/intermediate",
     "Без названия",
